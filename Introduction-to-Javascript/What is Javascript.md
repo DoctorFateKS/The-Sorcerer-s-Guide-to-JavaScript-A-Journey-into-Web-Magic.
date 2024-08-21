@@ -1,6 +1,6 @@
 # What is JavaScript?
 
-JavaScript is a **versatile, beginner-friendly** programming language created in 1995 by **[Brendan Eich](https://en.wikipedia.org/wiki/Brendan_Eich** to add interactivity to web pages. Initially named *LiveScript*, it was renamed **JavaScript** to capitalize on the popularity of Java, though the two languages are *unrelated*. JavaScript allows developers to create **dynamic web content**, including games, animations, and interactive forms, and it now powers server-side applications through environments like **[Node.js](https://nodejs.org/)**.
+JavaScript is a **versatile, beginner-friendly** programming language created in 1995 by **[Brendan Eich](https://en.wikipedia.org/wiki/Brendan_Eich)** to add interactivity to web pages. Initially named *LiveScript*, it was renamed **JavaScript** to capitalize on the popularity of Java, though the two languages are *unrelated*. JavaScript allows developers to create **dynamic web content**, including games, animations, and interactive forms, and it now powers server-side applications through environments like **[Node.js](https://nodejs.org/)**.
 
 JavaScript is **compact yet highly flexible**, with numerous tools and APIs built on top of it to extend functionality. **[Browser APIs](https://developer.mozilla.org/en-US/docs/Web/API)** allow for tasks like dynamically manipulating HTML, working with media, and generating 3D graphics. **Third-party APIs** and frameworks further enhance its capabilities.
 
