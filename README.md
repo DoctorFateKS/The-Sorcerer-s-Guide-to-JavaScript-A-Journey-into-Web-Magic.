@@ -6,9 +6,9 @@ Welcome to my journey of learning JavaScript. This repository is a compilation o
 
 ## Table of Contents
 - [I -  INTRODUCTION TO JAVASCRIPT](https://github.com/DoctorFateKS/The-Sorcerer-s-Guide-to-JavaScript-A-Journey-into-Web-Magic./tree/main/Introduction-to-Javascript)
-  - [What is Javascript ?](https://github.com/DoctorFateKS/The-Sorcerer-s-Guide-to-JavaScript-A-Journey-into-Web-Magic./blob/main/Introduction-to-Javascript/What%20is%20Javascript.md)
-  - [History of Javascript](https://github.com/DoctorFateKS/The-Sorcerer-s-Guide-to-JavaScript-A-Journey-into-Web-Magic./blob/main/Introduction-to-Javascript/History%20of%20Javascript.md)
-  - Javascript Versions
+  - [What is Javascript ?](https://github.com/DoctorFateKS/The-Sorcerer-s-Guide-to-JavaScript-A-Journey-into-Web-Magic./blob/main/Introduction-to-Javascript/1.%20What%20is%20Javascript.md)
+  - [History of Javascript](https://github.com/DoctorFateKS/The-Sorcerer-s-Guide-to-JavaScript-A-Journey-into-Web-Magic./blob/main/Introduction-to-Javascript/2.%20History%20of%20Javascript.md)
+  - [Javascript Versions](https://github.com/DoctorFateKS/The-Sorcerer-s-Guide-to-JavaScript-A-Journey-into-Web-Magic./blob/main/Introduction-to-Javascript/3.%20Javascript%20Versions.md)
   - How to run Javascript ?
 - II - ALL ABOUT VARIABLES
   - Variable Declarations: var / let / const
