@@ -11,7 +11,7 @@ Welcome to my journey of learning JavaScript. This repository is a compilation o
   - [Javascript Versions](https://github.com/DoctorFateKS/The-Sorcerer-s-Guide-to-JavaScript-A-Journey-into-Web-Magic./blob/main/I%20-%20Introduction-to-Javascript%20/3.%20Javascript%20Versions.md)
   - [How to run Javascript ?](https://github.com/DoctorFateKS/The-Sorcerer-s-Guide-to-JavaScript-A-Journey-into-Web-Magic./blob/main/I%20-%20Introduction-to-Javascript%20/4.%20How%20to%20run%20Javascript.md)
 - II - ALL ABOUT VARIABLES
-  - Variable Declarations: var / let / const
+  - [Variable Declarations: var / let / const](https://github.com/DoctorFateKS/The-Sorcerer-s-Guide-to-JavaScript-A-Journey-into-Web-Magic./blob/main/II%20-%20All-About-Variables/1.%20Variable%20Declaration%20%3A%20Var%20-%20Let%20-%20Const.md)
   - Hoisting
   - Variable Naming Rules
   - Variable Scopes: Block / Function / Global
