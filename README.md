@@ -15,7 +15,7 @@
   - [⚙️ How to Run JavaScript?](https://github.com/DoctorFateKS/The-Sorcerer-s-Guide-to-JavaScript-A-Journey-into-Web-Magic./blob/main/I%20-%20Introduction-to-Javascript%20/4.%20How%20to%20run%20Javascript.md)
 
 - [II - ALL ABOUT VARIABLES](https://github.com/DoctorFateKS/The-Sorcerer-s-Guide-to-JavaScript-A-Journey-into-Web-Magic./tree/main/II%20-%20All-About-Variables)
-  - [🪄 Variable Declarations: var / let / const](https://github.com/DoctorFateKS/The-Sorcerer-s-Guide-to-JavaScript-A-Journey-into-Web-Magic./blob/main/II%20-%20All-About-Variables/1.%20Variable%20Declaration%20%3A%20Var%20-%20Let%20-%20Const.md)
+  - [🎩 Variable Declarations: var / let / const](https://github.com/DoctorFateKS/The-Sorcerer-s-Guide-to-JavaScript-A-Journey-into-Web-Magic./blob/main/II%20-%20All-About-Variables/1.%20Variable%20Declaration%20%3A%20Var%20-%20Let%20-%20Const.md)
   - [🔮 Hoisting](https://github.com/DoctorFateKS/The-Sorcerer-s-Guide-to-JavaScript-A-Journey-into-Web-Magic./blob/main/II%20-%20All-About-Variables/2.%20Hoisting.md)
   - [📝 Variable Naming Rules](https://github.com/DoctorFateKS/The-Sorcerer-s-Guide-to-JavaScript-A-Journey-into-Web-Magic./blob/main/II%20-%20All-About-Variables/3.%20Variable%20Naming%20Rules.md)
   - 🌍 Variable Scopes: Block / Function / Global
