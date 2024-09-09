@@ -21,7 +21,7 @@
   - [🌍 Variable Scopes: Block / Function / Global](https://github.com/DoctorFateKS/The-Sorcerer-s-Guide-to-JavaScript-A-Journey-into-Web-Magic./blob/main/II%20-%20All-About-Variables/4.%20Variable%20Scopes%3A%20Block%20-%20Function%20-%20Global.md)
 
 - III - **DATA TYPES**
-  - 🧩 Primitive Types: String / Number / Boolean / Undefined / Bigint / Null / Symbol
+  - [🧩 Primitive Types: String / Number / Boolean / Undefined / Bigint / Null / Symbol](https://github.com/DoctorFateKS/The-Sorcerer-s-Guide-to-JavaScript-A-Journey-into-Web-Magic./blob/main/III%20-%20Data-Types/Primitive%20Types.md)
   - 🛠️ Objects: Built-in Objects / Object Prototype / Prototypal Inheritance
   - 🔍 `typeof` Operator
 
